@@ -1,0 +1,4 @@
+#Sun Jan 24 23:21:32 IST 2021
+base.0=/home/harshit/Documents/react-nativ-example/SampleProject/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
